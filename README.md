@@ -1,0 +1,2 @@
+# Data-Analysis-with-PCA
+This project consists of two main parts. In the first part principal component analysis method is implemented on the data set and analyze the charts accordingly which presents an application of PCA in Monthly provisional mean total ozone (in Dobson units) at Halley Bay (approximately corrected to Bass- Paur). In the second part both auto encoder and principal component analysis are implemented on another set of data set which is Cifar10 from Keras and analyze the results.
